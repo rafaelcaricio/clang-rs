@@ -43,7 +43,7 @@ gte_clang_8_0 = []
 
 [dependencies]
 
-clang-sys = "0.28.0"
+clang-sys = "0.29"
 libc = "0.2.39"
 
 [[test]]
